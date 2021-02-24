@@ -14,9 +14,11 @@ While doing all of that, I have to pertain the website to look like the screensh
 * HTML
 * CSS
 
-## Website 
-Deployed Application : https://xtrannguyen.github.io/qcreateteam/
-GitHub Repository : https://github.com/xtrannguyen/qcreateteam.git
+## Deployed Application
+https://xtrannguyen.github.io/qcreateteam/
+
+## Repository
+https://github.com/xtrannguyen/qcreateteam.git
 
 ## Contribution
 Made by Tran Nguyen
