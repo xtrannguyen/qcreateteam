@@ -41,7 +41,6 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
 /* end of header */
 
 a {
@@ -63,17 +62,6 @@ p {
     background-position: center;
 }
 /* end of hero */
-
-/* utilities */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 /* content styles */
 .content {
@@ -99,6 +87,16 @@ p {
 .contents h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 /* end of content styles */
 
